@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 // Create a React Component
 const App = () => {
-  return <div>Hello There!</div>;
+  return <div>Hi There!</div>;
 }
 
 // Take the React Component and show on the screen
